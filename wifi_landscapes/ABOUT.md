@@ -1,1 +1,2 @@
 WIFI Urbanscapes vise à donner une forme physique à des informations circulant de manière invisible. Munis des prothèses de captation que sont les outils développés et/ou mis en oeuvre pour l'occasion, les artistes auscultent les ondes, flânent et glanent, triturent et donnent à voir, sous des formes sans cesse renouvelées, les ramifications du réseau des réseau qui s'étend sur la ville.
+Project in progress from [Martin De Bie](martindebie.com), [Jérôme Saint-Clair](http://www.saint-clair.net/) et [Ivan Twohig](http://ivantwohig.com/)
